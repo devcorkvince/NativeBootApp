@@ -5,16 +5,8 @@ tagline: developing, design
 ---
 {% include JB/setup %}
 
-### Technology I Use
+### Native Client Bootstrap Application
 		
-	::Programming Langauages
-	 ::Main Weapons	
-	  :Ruby
-	  :Python
-	  :PHP
-	  :JavaScript
-	  :C/C++
-
 #### Under Construction
 	
 
